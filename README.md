@@ -15,8 +15,10 @@ Task 1 of the Artificial Intelligence Path
     > Change the word `kinetic` to the word of the ROS version you installed
      
  4. The last command `roslaunch robot_arm_pkg check_motors.launch` is used to launch the ROS in Ubuntu
+    
+    <img width="500" alt="ROS_Launch" src="https://github.com/iidabawaj/Installing_ROS/assets/139181626/7c488573-d002-4d70-b194-3c2190c52ab6">
 
-
+<img width="641" alt="arm" src="https://github.com/iidabawaj/Installing_ROS/assets/139181626/1f3d9e46-bef4-4482-98e7-ff9b7ce6cbcb">
 
 
 
