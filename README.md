@@ -1,5 +1,6 @@
 # Installing_ROS
 Task 1 of the Artificial Intelligence Path
+### You can follow [this youtube video](https://youtu.be/fr6TXEd2rXI) to install and launch ROS
 
 ## 1. Install Ubuntu 
  1. [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -14,6 +15,8 @@ Task 1 of the Artificial Intelligence Path
     > Change the word `kinetic` to the word of the ROS version you installed
      
  4. The last command `roslaunch robot_arm_pkg check_motors.launch` is used to launch the ROS in Ubuntu
+
+
 
 
 
